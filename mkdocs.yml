@@ -1,9 +1,0 @@
-site_name: WallTokens
-
-nav:
-    - Home: index.md
-    - Files: files.md
-    - Pictures: pictures.md
-    - About: about.md
-
-theme: readthedocs
